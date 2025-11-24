@@ -28,4 +28,4 @@
 # ScreenShot
 
 <h3>1. Quiz Start Screen</h3>
-<img src="/Images/Simple_Quiz.png" alt="Quiz Start Screen" width="600" />
+<img src="/Screenshots/Screenshot_1.png" alt="Quiz Start Screen" width="600" />
