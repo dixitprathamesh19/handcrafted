@@ -1,6 +1,6 @@
 # Artisan Connect – Handmade Craft & Art Community Hub
- A digital platform designed to connect artisans with customers who value unique, handmade products.<br>
- The system provides an online marketplace along with a community space for sharing tutorials, <br>
+ A digital platform designed to connect artisans with customers who value unique, handmade products.
+ The system provides an online marketplace along with a community space for sharing tutorials,
  interacting with buyers, and showcasing creativity.
 
 # Objective
