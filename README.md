@@ -24,3 +24,7 @@
     Requires internet connectivity.<br>
     Depends on artisan participation for product variety.<br>
     Community-building may take time.<br>
+
+# ScreenShot
+
+<img src="Screenshot_1.jpg" width="400" />
