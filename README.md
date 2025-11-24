@@ -8,23 +8,23 @@
   and share knowledge through tutorials—building a vibrant craft community.
 
 # Features
-    Artisans can create personal storefronts to showcase products.
-    Buyers can browse categorized handmade items (jewelry, textiles, ceramics, etc.).
-    Tutorial section for learning and skill-sharing.
-    Secure payments and order management.<br>
-    Admin dashboard for moderation and analytics.
-    Custom order requests and virtual art exhibitions.
+   Artisans can create personal storefronts to showcase products.
+   Buyers can browse categorized handmade items (jewelry, textiles, ceramics, etc.).
+   Tutorial section for learning and skill-sharing.
+   Secure payments and order management.<br>
+   Admin dashboard for moderation and analytics.
+   Custom order requests and virtual art exhibitions.
 
 # Technology Stack
-    Frontend: HTML, CSS, JavaScript, Bootstrap
-    Backend: PHP
-    Database: MySQL
-    Payment Integration: PayPal, PhonePe, Credit/Debit Cards
+   Frontend: HTML, CSS, JavaScript, Bootstrap
+   Backend: PHP
+   Database: MySQL
+   Payment Integration: PayPal, PhonePe, Credit/Debit Cards
 
 # Current Limitations
-    Requires internet connectivity.
-    Depends on artisan participation for product variety.
-    Community-building may take time.
+   Requires internet connectivity.
+   Depends on artisan participation for product variety.
+   Community-building may take time.
 
 # ScreenShot
 
