@@ -4,27 +4,27 @@
  interacting with buyers, and showcasing creativity.
 
 # Objective
-  To create a unified platform where artisans can display and sell their handcrafted products, interact with customers,<br>
+  To create a unified platform where artisans can display and sell their handcrafted products, interact with customers,
   and share knowledge through tutorials—building a vibrant craft community.
 
 # Features
-    Artisans can create personal storefronts to showcase products.<br>
-    Buyers can browse categorized handmade items (jewelry, textiles, ceramics, etc.).<br>
-    Tutorial section for learning and skill-sharing.<br>
+    Artisans can create personal storefronts to showcase products.
+    Buyers can browse categorized handmade items (jewelry, textiles, ceramics, etc.).
+    Tutorial section for learning and skill-sharing.
     Secure payments and order management.<br>
-    Admin dashboard for moderation and analytics.<br>
-    Custom order requests and virtual art exhibitions.<br>
+    Admin dashboard for moderation and analytics.
+    Custom order requests and virtual art exhibitions.
 
 # Technology Stack
-    Frontend: HTML, CSS, JavaScript, Bootstrap<br>
-    Backend: PHP<br>
-    Database: MySQL<br>
-    Payment Integration: PayPal, PhonePe, Credit/Debit Cards<br>
+    Frontend: HTML, CSS, JavaScript, Bootstrap
+    Backend: PHP
+    Database: MySQL
+    Payment Integration: PayPal, PhonePe, Credit/Debit Cards
 
 # Current Limitations
-    Requires internet connectivity.<br>
-    Depends on artisan participation for product variety.<br>
-    Community-building may take time.<br>
+    Requires internet connectivity.
+    Depends on artisan participation for product variety.
+    Community-building may take time.
 
 # ScreenShot
 
