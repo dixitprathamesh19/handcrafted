@@ -16,7 +16,7 @@
    Custom order requests and virtual art exhibitions.
 
 # Technology Stack
-   Frontend: HTML, CSS, JavaScript, Bootstrap
+   Frontend: HTML, CSS, JavaScript, Bootstrap <br>
    Backend: PHP
    Database: MySQL
    Payment Integration: PayPal, PhonePe, Credit/Debit Cards
